@@ -1,0 +1,13 @@
+C:\Tools\Code\ExcelMapWord\bin\Debug\ExcelMapWord.exe.config
+C:\Tools\Code\ExcelMapWord\bin\Debug\ExcelMapWord.exe
+C:\Tools\Code\ExcelMapWord\bin\Debug\ExcelMapWord.pdb
+C:\Tools\Code\ExcelMapWord\bin\Debug\ClosedXML.xml
+C:\Tools\Code\ExcelMapWord\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Tools\Code\ExcelMapWord\bin\Debug\ExcelNumberFormat.xml
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.csproj.AssemblyReference.cache
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.csproj.SuggestedBindingRedirects.cache
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.csproj.CoreCompileInputs.cache
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.csproj.CopyComplete
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.exe
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.pdb
+C:\Tools\Code\ExcelMapWord\obj\Debug\ExcelMapWord.csproj.Fody.CopyLocal.cache

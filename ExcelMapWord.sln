@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMapWord", "ExcelMapWord.csproj", "{E4AE85F1-94E3-4BFD-8382-C5F33C3C6C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AE85F1-94E3-4BFD-8382-C5F33C3C6C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AE85F1-94E3-4BFD-8382-C5F33C3C6C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AE85F1-94E3-4BFD-8382-C5F33C3C6C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AE85F1-94E3-4BFD-8382-C5F33C3C6C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217A9140-3C42-4861-A535-D55FD864C9C2}
+	EndGlobalSection
+EndGlobal
